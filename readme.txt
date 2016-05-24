@@ -8,3 +8,5 @@ first change and add to stage.
 
 Creating a new branch is quick.
 
+Creating a new branch is quick AND simple.
+
